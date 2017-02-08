@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ceed5c4d159ba604682bca5aa2b5d9d3
+timeCreated: 1486502306
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - __MainTex: {fileID: 2800000, guid: 9212ecbcd2c0d9e47b36a7e50187e6c4, type: 3}
+  - _Energy: {fileID: 2800000, guid: f28ecd72de1508f4daeb3847bc92f48e, type: 3}
+  - _Lava1: {fileID: 2800000, guid: b33841bd48566c346bcf92dac239376d, type: 3}
+  - _Lava2: {fileID: 2800000, guid: b33841bd48566c346bcf92dac239376d, type: 3}
+  - _FirePitAlpha: {fileID: 2800000, guid: 5463b78a89ca15d4591f102f16258fb5, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

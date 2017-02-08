@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4690a53348a9883469618bec88f11ce3
+timeCreated: 1485377259
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _WorldSpaceDiffuse: {fileID: 2800000, guid: b33841bd48566c346bcf92dac239376d,
+      type: 3}
+  - _Overlay: {fileID: 2800000, guid: 59ccdcac70c5c2144ad4c2f4bd2b5bb6, type: 3}
+  - _AlphaMask: {fileID: 2800000, guid: 1f636b58a90ee254689a0b824114c301, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

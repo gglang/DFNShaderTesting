@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 3d247a2e8523a3c42ac9d3ba5f85dbf4
+timeCreated: 1480358344
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: FX_Mesh_Sword1
+    100002: FX_Mesh_Sword2
+    100004: FX_Mesh_Sword3
+    100006: FX_Mesh_Sword4
+    100008: //RootNode
+    100010: FX_Mesh_SpinningSwords
+    100012: spinningswords_root_motion
+    400000: FX_Mesh_Sword1
+    400002: FX_Mesh_Sword2
+    400004: FX_Mesh_Sword3
+    400006: FX_Mesh_Sword4
+    400008: //RootNode
+    400010: FX_Mesh_SpinningSwords
+    400012: spinningswords_root_motion
+    2300000: FX_Mesh_Sword1
+    2300002: FX_Mesh_Sword2
+    2300004: FX_Mesh_Sword3
+    2300006: FX_Mesh_Sword4
+    2300008: spinningswords_root_motion
+    3300000: FX_Mesh_Sword1
+    3300002: FX_Mesh_Sword2
+    3300004: FX_Mesh_Sword3
+    3300006: FX_Mesh_Sword4
+    3300008: spinningswords_root_motion
+    4300000: FX_Mesh_Sword1
+    4300002: FX_Mesh_Sword2
+    4300004: FX_Mesh_Sword3
+    4300006: FX_Mesh_Sword4
+    4300008: spinningswords_root_motion
+    7400000: flyup
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: spinningswords_root_motion
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: flyup
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FX_Mesh_SpinningSwords
+        weight: 1
+      - path: FX_Mesh_SpinningSwords/FX_Mesh_Sword1
+        weight: 1
+      - path: FX_Mesh_SpinningSwords/FX_Mesh_Sword2
+        weight: 1
+      - path: FX_Mesh_SpinningSwords/FX_Mesh_Sword3
+        weight: 1
+      - path: FX_Mesh_SpinningSwords/FX_Mesh_Sword4
+        weight: 1
+      - path: spinningswords_root_motion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 125
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0bd10ec9d987763448b81fa7c2caef1b,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

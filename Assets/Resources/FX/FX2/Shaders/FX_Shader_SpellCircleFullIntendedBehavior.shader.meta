@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7781a81e7c3617440a8037a23a5983c3
+timeCreated: 1486516994
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Spellcircle1: {fileID: 2800000, guid: 0d310ef5ef601d843bdf8f922c1375fa, type: 3}
+  - _Spellcircle2: {fileID: 2800000, guid: f796a3e09b7d6794285f8f5a96b45580, type: 3}
+  - _Spellcircle3: {fileID: 2800000, guid: 6fa6c4efba317194098a3ff04bcb174d, type: 3}
+  - _Spellcircle4: {fileID: 2800000, guid: bf2b79c10577dc54a993318619e0bcdb, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

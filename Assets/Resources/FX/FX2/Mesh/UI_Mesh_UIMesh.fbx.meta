@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: f07b943c13774254ea70d512d25e87c1
+timeCreated: 1486492337
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: UI_Mesh_EXPBar
+    100004: UI_Mesh_HealingSpell
+    100006: UI_Mesh_HealthBar
+    100008: UI_Mesh_ManaBar
+    100010: UI_Mesh_NewCoolDownBar1F
+    100012: UI_Mesh_NewCooldownBar2F
+    100014: UI_Mesh_NewCooldownBar3F
+    100016: UI_Mesh_NewSecondaryCooldownBar1F
+    100018: UI_Mesh_NewSecondaryCooldownBar2F
+    100020: UI_Mesh_NewSecondaryCooldownBar3F
+    100022: UI_Mesh_UIMesh
+    400000: //RootNode
+    400002: UI_Mesh_EXPBar
+    400004: UI_Mesh_HealingSpell
+    400006: UI_Mesh_HealthBar
+    400008: UI_Mesh_ManaBar
+    400010: UI_Mesh_NewCoolDownBar1F
+    400012: UI_Mesh_NewCooldownBar2F
+    400014: UI_Mesh_NewCooldownBar3F
+    400016: UI_Mesh_NewSecondaryCooldownBar1F
+    400018: UI_Mesh_NewSecondaryCooldownBar2F
+    400020: UI_Mesh_NewSecondaryCooldownBar3F
+    400022: UI_Mesh_UIMesh
+    2300000: //RootNode
+    2300002: UI_Mesh_EXPBar
+    2300004: UI_Mesh_HealingSpell
+    2300006: UI_Mesh_HealthBar
+    2300008: UI_Mesh_ManaBar
+    2300010: UI_Mesh_NewCoolDownBar1F
+    2300012: UI_Mesh_NewCooldownBar2F
+    2300014: UI_Mesh_NewCooldownBar3F
+    2300016: UI_Mesh_NewSecondaryCooldownBar1F
+    2300018: UI_Mesh_NewSecondaryCooldownBar2F
+    2300020: UI_Mesh_NewSecondaryCooldownBar3F
+    2300022: UI_Mesh_UIMesh
+    3300000: //RootNode
+    3300002: UI_Mesh_EXPBar
+    3300004: UI_Mesh_HealingSpell
+    3300006: UI_Mesh_HealthBar
+    3300008: UI_Mesh_ManaBar
+    3300010: UI_Mesh_NewCoolDownBar1F
+    3300012: UI_Mesh_NewCooldownBar2F
+    3300014: UI_Mesh_NewCooldownBar3F
+    3300016: UI_Mesh_NewSecondaryCooldownBar1F
+    3300018: UI_Mesh_NewSecondaryCooldownBar2F
+    3300020: UI_Mesh_NewSecondaryCooldownBar3F
+    3300022: UI_Mesh_UIMesh
+    4300000: UI_Mesh_UIMesh
+    4300002: UI_Mesh_HealingSpell
+    4300004: UI_Mesh_EXPBar
+    4300006: UI_Mesh_HealthBar
+    4300008: UI_Mesh_ManaBar
+    4300010: UI_Mesh_NewCoolDownBar1F
+    4300012: UI_Mesh_NewCooldownBar2F
+    4300014: UI_Mesh_NewCooldownBar3F
+    4300016: UI_Mesh_NewSecondaryCooldownBar1F
+    4300018: UI_Mesh_NewSecondaryCooldownBar2F
+    4300020: UI_Mesh_NewSecondaryCooldownBar3F
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 912
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
